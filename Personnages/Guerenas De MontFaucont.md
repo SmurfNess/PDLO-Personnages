@@ -14,3 +14,7 @@ Rare sont celles et ceux à pouvoir prétendre avoir réellement connu les membr
 Le mystère des assaillants restent entier, d’après les informations de la guilde, ils ont fait appel à un groupe de mercenaires d’outre-mer pour l’assaut, qui avaient une tendance à préférer mourir que parler, littéralement, ils étaient comme maudit, envisager de révéler le nom de leur employeur en a fait mourir quelques uns, comme sous l’effet d’une malédiction, aussi il est difficile d’obtenir des informations sur leur employeur.
 
 # Besace
+
+
+
+# Loot

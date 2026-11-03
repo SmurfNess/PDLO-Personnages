@@ -41,3 +41,7 @@ Isaline avance aujourd’hui avec un objectif clair : retrouver son fils. Le sau
 Elle sait que la vérité sera difficile. Elle sait que son fils pourrait être perdu, transformé, ou même lui en vouloir. Mais elle refuse d’abandonner. Elle est une mère. Une protectrice. Une paladine de la nature. Et elle ne reculera plus.
 
 # Besace
+
+
+
+# Loot

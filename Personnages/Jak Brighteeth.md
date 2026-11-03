@@ -34,3 +34,5 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Nombre de charges :** aucune
 > - **Rechargement :** Aucune
 > - **Fonctionnement :** le catalyseur de Jak, son lien avec son patron : [[Zhal Amun]]
+
+# Loot

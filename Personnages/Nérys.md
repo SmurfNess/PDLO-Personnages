@@ -18,3 +18,5 @@ Nérys a une histoire difficile qu'elle ne partage, comme son nom véritable, qu
 # Besace
 
 Non renseignée.
+
+# Loot
