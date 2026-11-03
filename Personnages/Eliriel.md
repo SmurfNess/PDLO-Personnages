@@ -27,6 +27,3 @@ Quand il y revint, il ne trouva que des corps calcinés.
 ##### Peau de chamois ( magique 5 charges) : Si utilisée pour nettoyer votre arme, vous trouvez votre arme magnifique, comme neuve, vous éprouvez de la joie à vous en servir, vous gagnez un avantage sur votre prochain jet d’attaque et de dégât, vous gagnez également la résistance correspondante au dégat de votre arme et un +1 en CA pendant une heure.  
   
 Baguette des secrets : Cette baguette possède 3 charges et récupère 1d3 charges dépensées chaque jour à l'aube. Lorsque vous la tenez, vous pouvez prendre une action Magie pour dépenser 1 charge. Si une porte secrète ou un piège se trouve dans un rayon de 18 mètres, la baguette clignote et pointe vers le plus proche.
-
-
-/obj
