@@ -20,6 +20,8 @@ Bien que d'abord prudent, devant a nature du Djinn peu inquiété par sa nature,
 
 Le Djinn, par ennui ou pris d'une certaine affection pour cette bête sanguinaire qui ne manquait pas de panache, décida d'occuper sa solitude en tentant d'en faire un érudit, ce qu'il finit par réussir.
 
-Jak est un assassin accomplit, un arcaniste de premier ordre
+Jak est un assassin accomplit, un arcaniste de premier ordre et talentueux manipulateur.
+
+Aujourd'hui libérer de son école de prestige, il
 
 # Besace
