@@ -43,3 +43,5 @@ Quand il y revint, il ne trouva que des corps calcinés.
 >
 
 # Loot
+
+- potion
