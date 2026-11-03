@@ -31,9 +31,7 @@ Quand il y revint, il ne trouva que des corps calcinés.
 > - **Rechargement :** aucun
 > - **Fonctionnement :** Si utilisée pour nettoyer votre arme, vous trouvez votre arme magnifique, comme neuve, vous éprouvez de la joie à vous en servir, vous gagnez un avantage sur votre prochain jet d’attaque et de dégât, vous gagnez également la résistance correspondante au dégat de votre arme et un +1 en CA pendant une heure.
 > 
->
-
-# Loot
+> 
 
 > [!note]
 > ### Baguette des secrets
@@ -43,3 +41,5 @@ Quand il y revint, il ne trouva que des corps calcinés.
 > - **Fonctionnement :** Lorsque vous la tenez, vous pouvez prendre une action Magie pour dépenser 1 charge. Si une porte secrète ou un piège se trouve dans un rayon de 18 mètres, la baguette clignote et pointe vers le plus proche.
 > 
 >
+
+# Loot
