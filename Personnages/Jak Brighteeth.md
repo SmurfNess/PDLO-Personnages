@@ -10,7 +10,7 @@
 
 Quiconque croise [[Jak Brighteeth]] sans souvient, pour une raison simple, avait vous déjà vu un Gobelours habillé comme un dandy ? Mentir comme un arracheur de dents avec un physique qui vous laisse penser qu'il pourrait vous les arracher ?
 
-Mais avant d'arriver à laisser cette impression, Jak était un jeune Gobelours, chargé de piller les richesses tandis que les gobelours plus agés pouvez s'amusez en massacrant des humains, elfes et j'en passe.
+Mais avant d'arriver à laisser cette impression, Jak était un jeune Gobelours, chargé de piller les richesses tandis que les gobelours plus âgés pouvez s'amusez en massacrant des humains, elfes et j'en passe.
 Mais un jour, l'assaut fut donné sur une caravane lourdement préparée et Jak ne dut son salut qu'à la découverte d'une bague magique.
 
 Alors que les siens commencèrent à se faire massacrer, la chevalière étincela et Jak se retrouvât dans une pièce confortable et cosi mais fermée.
@@ -24,7 +24,7 @@ Jak est un assassin accomplit, un arcaniste de premier ordre et talentueux manip
 
 Aujourd'hui libérer de son école de prestige, s'il aime jouïr des petits comme  des fastueux plaisirs de la vie, il cherche à rendre la pareil à celui qu'il appelle dix ans plus tard, son oncle, le libérer de sa destinée.
 
-Il rencontrat un groupe hétérogène surprenant qui semblait emmélè dans les fils du destin qui mène à [[Stahlzunft Higar|Stahlzunft]] le responsable de la ruine de son Oncle.
+Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les fils du destin qui mène à [[Stahlzunft Higar|Stahlzunft]] le responsable de la ruine de son Oncle.
 
 # Besace
 
@@ -33,4 +33,4 @@ Il rencontrat un groupe hétérogène surprenant qui semblait emmélè dans les 
 > 
 > - **Nombre de charges :** aucune
 > - **Rechargement :** Aucune
-> - **Fonctionnement :** le catalyseur de Jak, son lien avec son patron : [[za]]
+> - **Fonctionnement :** le catalyseur de Jak, son lien avec son patron : [[Zhal Amun]]
