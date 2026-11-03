@@ -36,3 +36,5 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Fonctionnement :** le catalyseur de Jak, son lien avec son patron : [[Zhal Amun]]
 
 # Loot
+
+- pizza
