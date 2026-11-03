@@ -22,6 +22,6 @@ Le Djinn, par ennui ou pris d'une certaine affection pour cette bête sanguinair
 
 Jak est un assassin accomplit, un arcaniste de premier ordre et talentueux manipulateur.
 
-Aujourd'hui libérer de son école de prestige, il
+Aujourd'hui libérer de son école de prestige, s'il aime jouïr des petits comme  des fastueux plaisirs de la vie, il cherche à rendre la pareil à celui qu'il appelle dix ans plus tard, son
 
 # Besace
