@@ -13,6 +13,7 @@ Quiconque croise Jak Brighteeth sans souvient, pour une raison simple, avait vou
 Mais avant d'arriver à laisser cette impression, Jak était un jeune Gobelours, chargé de piller les richesses tandis que les gobelours plus agés pouvez s'amusez en massacrant des humains, elfes et j'en passe.
 Mais un jour, l'assaut fut donné sur une caravane lourdement préparée et Jak ne dut son salut qu'à la découverte d'une bague magique.
 
-Alors que les siens commencèrent à se faire massacrer,
+Alors que les siens commencèrent à se faire massacrer, la chevalière étincela et Jak se retrouvât dans une pièce confortable et cosi mais fermée.
+C'était la demeure de Zhal Amun, le djinn, enfermé il y a plusieurs siècl
 
 # Besace
