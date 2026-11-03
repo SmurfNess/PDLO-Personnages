@@ -18,6 +18,6 @@ C'était la demeure de[[Zhal Amun]], le djinn, enfermé il y a plusieurs siècle
 
 Bien que d'abord prudent, devant a nature du Djinn peu inquiété par sa nature, Jak tenta de se déchainer pour sortir sous les rires de [[Zhal Amun]].
 
-Le Djinn se prit d'une certaine affection pour cette bête sanguinaire qui ne manquait pas de panache.
+Le Djinn, par ennui ou pris d'une certaine affection pour cette bête sanguinaire qui ne manquait pas de panache, décida d'occuper sa solitude en tentant d'en faire un érudit, capable de tout et paradoxalement cru
 
 # Besace
