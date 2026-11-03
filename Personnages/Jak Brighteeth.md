@@ -16,6 +16,8 @@ Mais un jour, l'assaut fut donné sur une caravane lourdement préparée et Jak 
 Alors que les siens commencèrent à se faire massacrer, la chevalière étincela et Jak se retrouvât dans une pièce confortable et cosi mais fermée.
 C'était la demeure de[[Zhal Amun]], le djinn, enfermé il y a plusieurs siècles par [[Stahlzunft Higar|Stahlzunft]].
 
-Bien que d'abord prudent, devant a nature du Djinn peu inquiéte
+Bien que d'abord prudent, devant a nature du Djinn peu inquiété par sa nature, Jak tenta de se déchainer pour sortir sous les rires de [[Zhal Amun]].
+
+Le Djinn se prit d'une certaine affection pour cette bête sanguinaire qui ne manquait pas de panache.
 
 # Besace
