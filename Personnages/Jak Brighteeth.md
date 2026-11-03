@@ -27,3 +27,10 @@ Aujourd'hui libérer de son école de prestige, s'il aime jouïr des petits comm
 Il rencontrat un groupe hétérogène surprenant qui semblait emmélè dans les fils du destin qui mène à [[Stahlzunft Higar|Stahlzunft]] le responsable de la ruine de son Oncle.
 
 # Besace
+
+> [!note]
+> ### Bague de l'Oncle
+> 
+> - **Nombre de charges :** aucune
+> - **Rechargement :** Aucune
+> - **Fonctionnement :** le catalyseur de Jak, son lien avec son patron : [[za]]
