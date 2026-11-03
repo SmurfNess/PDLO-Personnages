@@ -38,3 +38,4 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 # Loot
 
 - pizza
+- loot
