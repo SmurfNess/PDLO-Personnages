@@ -21,3 +21,11 @@ Nérys a une histoire difficile qu'elle ne partage, comme son nom véritable, qu
 Non renseignée.
 
 # Loot
+
+> [!note]
+> ### Perle de Perlimpimpim
+>
+> - **Description :** Une perle d'un rouge éclatant semblable à une baie
+> - **Nombre de charges :** -
+> - **Rechargement :** -
+> - **Fonctionnement :** tba
