@@ -29,11 +29,3 @@ Non renseignée.
 > - **Nombre de charges :** -
 > - **Rechargement :** -
 > - **Fonctionnement :** tba
-
-> [!note]
-> ### truc
->
-> - **Description :** truc-
-> - **Nombre de charges :** -
-> - **Rechargement :** -
-> - **Fonctionnement :** -
