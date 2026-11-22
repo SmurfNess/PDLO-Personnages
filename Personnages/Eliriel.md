@@ -25,9 +25,9 @@ Quand il y revint, il ne trouva que des corps calcinés.
 Il partit.
 
 
-Lors des évènements du chapitre [[6 - 1 Le temple de Morahgor]], Eliriel est confronté aux mensonges de [[Sulfur]] (qui a tué le grand maître en fuyant le temple après avoir pris possession du corps d'Eliriel. Epuisé, il avait modifié la mémoire d'[[Eliriel]] pour le dissuader de revenir au temple) lorsqu'il rencontre [[Oriel]] bien vivant qui l'emmène au terrain d'entraînement pour lui coller une raclée, ce pourquoi il s'entraîne depuis deux ans avec les autres frères et soeurs d'Eliriel.
+Lors des évènements du chapitre [[6 - 1 Le temple de Morahgor]], Eliriel découvrira les mensonges de [[Sulfur]] (qui a tué le grand maître en fuyant le temple après avoir pris possession du corps d'Eliriel. Epuisé, il avait modifié la mémoire d'[[Eliriel]] pour le dissuader de revenir au temple) lorsqu'il rencontre un [[Oriel]] bien vivant qui l'emmène au terrain d'entraînement pour lui coller une raclée, ce pourquoi il s'entraîne depuis deux ans avec les autres frères et soeurs d'Eliriel.
 
-Cette révélation aura pour résultat
+Cette révélation
 
 # Besace
 
