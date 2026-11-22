@@ -8,7 +8,6 @@ C'est une tieffeline très douce à la peau violette avec un vitiligo.
 
 Nérys a appris les codes sociaux par observation. Elle éprouve des difficultés à sociabiliser avec les humains et se sent plus à l'aise dans la nature et avec les animaux.
 
-Dispose d'une forme animale
 ## Formes animales envisagées
 
 Une apparence de renard noir et feu observateur et câlin est envisagée, sans comportement animal stéréotypé.
