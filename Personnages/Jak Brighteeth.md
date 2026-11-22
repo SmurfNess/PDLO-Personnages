@@ -42,3 +42,11 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 - pizza
 - banane
 - pizza
+
+> [!note]
+> ### Tutu rose
+>
+> - **Description :** une épée en latex rose
+> - **Nombre de charges :** 1
+> - **Rechargement :** aucun
+> - **Fonctionnement :** cette épée ne fait rien et disparait si on frappe quelqu'un avec
