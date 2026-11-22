@@ -66,3 +66,11 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Nombre de charges :** 10
 > - **Rechargement :** 10
 > - **Fonctionnement :** fait des bruit de pets
+
+> [!note]
+> ### tutu violet
+>
+> - **Description :** transparent et court
+> - **Nombre de charges :** 1
+> - **Rechargement :** 1
+> - **Fonctionnement :** fait des bruit de pet
