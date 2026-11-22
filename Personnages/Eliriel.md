@@ -25,7 +25,7 @@ Quand il y revint, il ne trouva que des corps calcinés.
 Il partit.
 
 
-Lors des évènements du chapitre [[6 - 1 Le temple de Morahgor]] Eliriel est confronté
+Lors des évènements du chapitre [[6 - 1 Le temple de Morahgor]] Eliriel est confronté aux mensonges de [[Sulfur]] qui lui a greffé des souvenirs et tué le grand maître en fuyant le temple après avoir pris possession du corps d'Eliriel. Epuisé i
 
 # Besace
 
