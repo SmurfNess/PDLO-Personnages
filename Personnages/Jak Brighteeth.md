@@ -58,3 +58,11 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Nombre de charges :** 0
 > - **Rechargement :** 0
 > - **Fonctionnement :** rien
+
+> [!note]
+> ### tutu vert
+>
+> - **Description :** transparent
+> - **Nombre de charges :** 10
+> - **Rechargement :** 10
+> - **Fonctionnement :** fait des bruit de pets
