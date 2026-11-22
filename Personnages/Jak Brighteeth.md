@@ -50,3 +50,11 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Nombre de charges :** 1
 > - **Rechargement :** aucun
 > - **Fonctionnement :** cette épée ne fait rien et disparait si on frappe quelqu'un avec
+
+> [!note]
+> ### tutu noir
+>
+> - **Description :** un tutu gothique inutile
+> - **Nombre de charges :** 0
+> - **Rechargement :** 0
+> - **Fonctionnement :** rien
