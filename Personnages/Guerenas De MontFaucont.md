@@ -18,3 +18,11 @@ Le mystère des assaillants restent entier, d’après les informations de la gu
 
 
 # Loot
+
+> [!note]
+> ### Anneau de la guilde
+>
+> - **Description :** Une chevalier en fer noirci sertie d'une pierre noire plate
+> - **Nombre de charges :** -
+> - **Rechargement :** -
+> - **Fonctionnement :** Permet de contacter tout membre de la guilde dont le nom est connu.
