@@ -50,3 +50,5 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Nombre de charges :** 1
 > - **Rechargement :** aucun
 > - **Fonctionnement :** cette épée ne fait rien et disparait si on frappe quelqu'un avec
+>   
+> - [x]
