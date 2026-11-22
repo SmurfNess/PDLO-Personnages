@@ -25,7 +25,7 @@ Quand il y revint, il ne trouva que des corps calcinés.
 Il partit.
 
 
-Lors des évènements du chapitre [[6 - 1 Le temple de Morahgor]]
+Lors des évènements du chapitre [[6 - 1 Le temple de Morahgor]] Eliriel est confronté
 
 # Besace
 
