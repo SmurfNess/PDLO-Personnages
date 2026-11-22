@@ -74,3 +74,11 @@ Il rencontrât un groupe hétérogène surprenant qui semblait emmêlé dans les
 > - **Nombre de charges :** 1
 > - **Rechargement :** 1
 > - **Fonctionnement :** fait des bruit de pet
+
+> [!note]
+> ### test
+>
+> - **Description :** test
+> - **Nombre de charges :** test
+> - **Rechargement :** test
+> - **Fonctionnement :** test
